@@ -1,0 +1,22 @@
+body {
+    min-height: 150%;
+    background-image: url("/static/blue_background.jpg");
+    background-blend-mode:  overlay;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    color:lightgreen;
+    text-align: center;
+}
+
+.time {
+    height: 100vh;
+     display: flex;
+     font-size: 2rem;
+     color:lightgreen;
+     justify-content: center;
+     align-items: center
+}
