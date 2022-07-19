@@ -1,0 +1,10 @@
+body{
+    min-height: "150%";
+    background-image: url("/css/blue_background.jpg");
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+
+.time {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
